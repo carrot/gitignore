@@ -1,0 +1,8 @@
+# This is the .gitignore file for this repo,
+# it is not a template for anything.
+
+# Mac
+.DS_Store
+
+# Vim
+*.swp
